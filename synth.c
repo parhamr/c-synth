@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Audio synthesizer
+// Audio synthesizer: http://www.commandlinefu.com/commands/view/12452/guitar-synthesizer-in-one-line-of-c
 
 int main (int i, char **a)
 {
