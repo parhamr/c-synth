@@ -29,5 +29,5 @@ Linux:
 
 OS X:
 ```sh
-./synth 220 </dev/urandom | mplayer -cache 1024 -quiet -rawaudio samplesize=1:channels=1:rate=8000 -demuxer rawaudio -
+./synth 220 </dev/urandom | mplayer -cache 1024 -quiet -rawaudio samplesize=1:channels=1:rate=8000 -endpos 3 -demuxer rawaudio -
 ```
